@@ -35,17 +35,24 @@
 수업과 자율 연구를 통해 치열하게 소화해낸  
 논문 노트를 주제별로 정리한 목록입니다.
 
-
 | 분야 | 주제 및 대상 논문 | 정리 노트 바로가기 |
 | :--- | :--- | :--- |
 | 📊 **정형 데이터** | • 랜덤 포레스트 (2001)<br>• XGBoost (2016)<br>• 정형 딥러닝 조사 논문 (2024) | 📄 [`classical-ml-algorithms.md`](./paper/classical-ml-algorithms.md) |
 | 🔤 **자연어 처리 (NLP)** | • Word Embedding 알고리즘 모음 (Word2Vec, GloVe 등) | 📄 [`word-embedding-algorithms.md`](./paper/word-embedding-algorithms.md) |
+| 🧬 **표현 학습 (Representation Learning)** | • Word Embedding Representation Learning | 📄 [`word-embeddings-representation-learning.md`](./paper/word-embeddings-representation-learning.md) |
+| 🧩 **Attention & Transformer** | • Attention Mechanism<br>• Transformer 구조 | 📄 [`attention-mechanism-and-transformer.md`](./paper/attention-mechanism-and-transformer.md) |
+| 🧠 **사전학습 언어모델** | • BERT<br>• Pre-trained Language Models | 📄 [`bert-and-pretrained-language-models.md`](./paper/bert-and-pretrained-language-models.md) |
 | ⚡ **모델 경량화 (Compression)** | • DistilBERT (2019)<br>• SpinQuant (2024) | 📄 [`distilbert-and-spinquant-analysis.md`](./paper/distilbert-and-spinquant-analysis.md) |
 | 🎯 **딥러닝 최적화 (Optimization)** | • SWA (Stochastic Weight Averaging, 2018)<br>• AdEMAMix (2024) | 📄 [`swa-and-ademamix-analysis.md`](./paper/swa-and-ademamix-analysis.md) |
 | 🛠️ **LLM 튜닝 & 정렬** | • LLM Alignment & Fine-tuning 기법 분석 | 📄 [`llm-alignment-and-tuning.md`](./paper/llm-alignment-and-tuning.md) |
+| 🔧 **LoRA / PEFT** | • LoRA (Low-Rank Adaptation) | 📄 [`lora-low-rank-adaptation.md`](./paper/lora-low-rank-adaptation.md) |
+| 📦 **QLoRA / Quantized PEFT** | • QLoRA (Quantized Low-Rank Adaptation) | 📄 [`qlora-quantized-low-rank-adaptation.md`](./paper/qlora-quantized-low-rank-adaptation.md) |
 | 🧠 **LLM 추론 & 벤치마크** | • LLM Reasoning & Benchmark Evaluation | 📄 [`llm-reasoning-and-benchmarks.md`](./paper/llm-reasoning-and-benchmarks.md) |
 | 👁️ **컴퓨터 비전 (CV)** | • AlexNet (2012)<br>• ResNet (2015) | 📄 [`cnn-architectures-alexnet-to-resnet.md`](./paper/cnn-architectures-alexnet-to-resnet.md) |
 | 🔄 **시퀀스 모델 (Sequence)** | • LSTM (1997)<br>• Mamba-2 (SSD, 2024) | 📄 [`sequence-models-lstm-to-mamba2.md`](./paper/sequence-models-lstm-to-mamba2.md) |
+| 🔁 **전이학습 (Transfer Learning)** | • Transfer Learning Survey | 📄 [`transfer-learning-survey.md`](./paper/transfer-learning-survey.md) |
+| 🎙️ **Speech-to-Text** | • Whisper 기반 음성 인식 | 📄 [`modern-speech-to-text-whisper.md`](./paper/modern-speech-to-text-whisper.md) |
+| 🔊 **Text-to-Speech** | • Neural Text-to-Speech | 📄 [`neural-text-to-speech.md`](./paper/neural-text-to-speech.md) |
 
 ---
 
