@@ -12,7 +12,7 @@
   * 자극을 받으면 지치지 않고 끝까지 계산해 내어 AI의 학습 속도를 극적으로 끌어올린 활성화 함수 메커니즘.
 
 * **초등학생 비유로 이해하는 '불포화 뉴런 vs 기존 포화 뉴런'**
-![불포화 뉴런 비교 그래프]<img width="695" height="453" alt="image (1)" src="https://github.com/user-attachments/assets/753460c4-7b51-46b3-984d-51a9fea8ae1a" />
+<img width="695" height="453" alt="image (1)" src="https://github.com/user-attachments/assets/753460c4-7b51-46b3-984d-51a9fea8ae1a" />
 
 | 구분 | 기존 포화 뉴런 (Saturating) | 불포화 뉴런 (Non-saturating / ReLU) |
 | :--- | :--- | :--- |
@@ -43,7 +43,7 @@
   * * **똑똑한 조별 과제를 위한 '드롭아웃' (Dropout)**
   AI 모델이 너무 똑똑해지면, 시험 문제(훈련 데이터)의 글자 크기나 점 위치까지 통째로 외워버리는 버릇(**오버피팅/과적합**)이 생겨요. 정작 진짜 시험(새로운 이미지)을 보면 틀려버리죠. 이를 막기 위해, 공부할 때마다 뉴런 몇 개를 무작위로 휴가 보내서 억지로 쉬게 만드는 기술이 바로 **드롭아웃**이에요.
 
-![드롭아웃 비교 도표]<img width="679" height="558" alt="image (3)" src="https://github.com/user-attachments/assets/7ca5d7dd-8824-45a1-bfa4-6cdda291442d" />
+<img width="679" height="558" alt="image (3)" src="https://github.com/user-attachments/assets/7ca5d7dd-8824-45a1-bfa4-6cdda291442d" />
 
 
 | 상황 | 드롭아웃이 없을 때 | 드롭아웃을 켰을 때 🌞 |
@@ -90,7 +90,7 @@
 * **ResNet의 원리 : 이미 아는 것은 지름길로 가자!**
   * 네트워크가 깊어질수록 발생하던 성능 저하(Degradation) 문제를 **지름길(Skip Connection/Shortcut)**을 통해 해결한 핵심 아키텍처.
 
-![ResNet residual learning diagram]<img width="569" height="390" alt="graph" src="https://github.com/user-attachments/assets/cc1f87fd-beb5-4c34-bd57-d5e2efdc5603" />
+<img width="569" height="390" alt="graph" src="https://github.com/user-attachments/assets/cc1f87fd-beb5-4c34-bd57-d5e2efdc5603" />
 
 ### 🧠 치열한 고민과 의문 (Read & Chewed)
 
