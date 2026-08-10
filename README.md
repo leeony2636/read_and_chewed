@@ -38,14 +38,14 @@
 
 | 분야 | 주제 및 대상 논문 | 정리 노트 바로가기 |
 | :--- | :--- | :--- |
-| 📊 **정형 데이터** | • 랜덤 포레스트 (2001)<br>• XGBoost (2016)<br>• 정형 딥러닝 조사 논문 (2024) | 📄 [`classical-ml-algorithms.md`](./classical-ml-algorithms.md) |
-| 🔤 **자연어 처리 (NLP)** | • Word Embedding 알고리즘 모음 (Word2Vec, GloVe 등) | 📄 [`word-embedding-algorithms.md`](./word-embedding-algorithms.md) |
-| ⚡ **모델 경량화 (Compression)** | • DistilBERT (2019)<br>• SpinQuant (2024) | 📄 [`distilbert-and-spinquant-analysis.md`](./distilbert-and-spinquant-analysis.md) |
-| 🎯 **딥러닝 최적화 (Optimization)** | • SWA (Stochastic Weight Averaging, 2018)<br>• AdEMAMix (2024) | 📄 [`swa-and-ademamix-analysis.md`](./swa-and-ademamix-analysis.md) |
-| 🛠️ **LLM 튜닝 & 정렬** | • LLM Alignment & Fine-tuning 기법 분석 | 📄 [`llm-alignment-and-tuning.md`](./llm-alignment-and-tuning.md) |
-| 🧠 **LLM 추론 & 벤치마크** | • LLM Reasoning & Benchmark Evaluation | 📄 [`llm-reasoning-and-benchmarks.md`](./llm-reasoning-and-benchmarks.md) |
-| 👁️ **컴퓨터 비전 (CV)** | • AlexNet (2012)<br>• ResNet (2015) | 📄 [`cnn-architectures-alexnet-to-resnet.md`](./cnn-architectures-alexnet-to-resnet.md) |
-| 🔄 **시퀀스 모델 (Sequence)** | • LSTM (1997)<br>• Mamba-2 (SSD, 2024) | 📄 [`sequence-models-lstm-to-mamba2.md`](./sequence-models-lstm-to-mamba2.md) |
+| 📊 **정형 데이터** | • 랜덤 포레스트 (2001)<br>• XGBoost (2016)<br>• 정형 딥러닝 조사 논문 (2024) | 📄 [`classical-ml-algorithms.md`](./paper/classical-ml-algorithms.md) |
+| 🔤 **자연어 처리 (NLP)** | • Word Embedding 알고리즘 모음 (Word2Vec, GloVe 등) | 📄 [`word-embedding-algorithms.md`](./paper/word-embedding-algorithms.md) |
+| ⚡ **모델 경량화 (Compression)** | • DistilBERT (2019)<br>• SpinQuant (2024) | 📄 [`distilbert-and-spinquant-analysis.md`](./paper/distilbert-and-spinquant-analysis.md) |
+| 🎯 **딥러닝 최적화 (Optimization)** | • SWA (Stochastic Weight Averaging, 2018)<br>• AdEMAMix (2024) | 📄 [`swa-and-ademamix-analysis.md`](./paper/swa-and-ademamix-analysis.md) |
+| 🛠️ **LLM 튜닝 & 정렬** | • LLM Alignment & Fine-tuning 기법 분석 | 📄 [`llm-alignment-and-tuning.md`](./paper/llm-alignment-and-tuning.md) |
+| 🧠 **LLM 추론 & 벤치마크** | • LLM Reasoning & Benchmark Evaluation | 📄 [`llm-reasoning-and-benchmarks.md`](./paper/llm-reasoning-and-benchmarks.md) |
+| 👁️ **컴퓨터 비전 (CV)** | • AlexNet (2012)<br>• ResNet (2015) | 📄 [`cnn-architectures-alexnet-to-resnet.md`](./paper/cnn-architectures-alexnet-to-resnet.md) |
+| 🔄 **시퀀스 모델 (Sequence)** | • LSTM (1997)<br>• Mamba-2 (SSD, 2024) | 📄 [`sequence-models-lstm-to-mamba2.md`](./paper/sequence-models-lstm-to-mamba2.md) |
 
 ---
 
